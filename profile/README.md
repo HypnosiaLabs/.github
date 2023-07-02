@@ -1,6 +1,6 @@
 ## Hi there 👋 This is HypnosiaLabs  
 
-🙋‍♀️ Web3 development solutions & ecommerce consultations and development solution creations.  
+🙋‍♀️ Web3 development solutions & ecommerce consultations and development solution creations.[^1]  
 🌈 please help and join, we love new ideas  
 🍿 Cheese and Charcuterie.. & wine.  
 
