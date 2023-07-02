@@ -1,9 +1,15 @@
-## Hi there 👋 This is HypnosiaLabs  
+# Hypnosia Labs
 
-🙋‍♀️ Web3 development solutions & ecommerce consultations and development solution creations.[^1]  
+## Hi there 👋 I am Jonah[^1]  
+
+🙋‍♀️ Web3 development solutions & ecommerce consultations and development solution creations.
 🌈 please help and join, we love new ideas  
 🍿 Cheese and Charcuterie.. & wine.  
 
-[^1]: Index
-[^2]: Roadmap
-  Coming soon
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: [Jonah L Madeya](https://www.jonahlmadeya.com)
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
