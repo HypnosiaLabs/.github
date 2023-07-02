@@ -10,7 +10,7 @@ Welcome to Hypnosia Labs, an innovative digital landscape led by the dynamic and
 
 You can learn more about Jonah's expansive portfolio and background through the following links:
 
-- His personal website: [JonahLMadeya.com](https://www.jonahlmadeya.com) <a href='https://www.jonahlmadeya.com' target='_blank'>Portfolio</a>  
+- His personal website: <a href='https://www.jonahlmadeya.com' target='_blank'>Portfolio</a>  
 - An aggregation of his social and professional profiles at: [Linktr.ee](https://linktr.ee/jonahlmadeya)  
 - Explore his technical prowess on GitHub: [GitHub - The Cool Agency](https://github.com/thecoolagency) and [GitHub - JonahTC](https://github.com/jonahtc)  
 - Learn about his professional contributions as a Developer at: [True Classic](https://trueclassictees.com/)
